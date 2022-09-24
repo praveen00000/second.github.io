@@ -1,0 +1,36 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.one
+{
+    width: 100vw;
+    background-color: #EBC7E8;
+ padding-bottom: 2rem;
+   
+}
+.two
+{  display: flex;
+    align-items: center;
+    justify-content: center;flex-direction: column;
+    width: 100vw;
+    padding: 2rem;
+    background-color: #E1FFEE;
+}
+.three
+{
+    margin: 2rem;
+    border: black 0.5rem solid;
+    width: 100vw;
+    padding: 2rem;
+    background-color: #E9DAC1
+}
+img{
+    align-items: center;
+    border-style: dashed;
+   
+    background-color: #E1FFEE;
+}
